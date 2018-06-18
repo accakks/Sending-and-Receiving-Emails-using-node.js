@@ -17,7 +17,7 @@ let transporter = nodemailer.createTransport({
           user: 'your_email@service.com', //For example, aakanksha.jain8@gmail.com
           /* For learning how to know your client id, client secret and refresh token, refer to 
           section "Getting credentials for OAuth2"*/
-          clientId: 'Your_ClientID,
+          clientId: 'Your_ClientID',
           clientSecret: 'Client_Secret',
           refreshToken: 'Refresh_Token'    }
         
